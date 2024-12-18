@@ -6,10 +6,10 @@ First, you'll build a cat photo app to learn the basics of HTML and CSS. Later, 
 
 Finally, you'll learn how to make webpages that respond to different screen sizes by building a photo gallery with Flexbox, and a magazine article layout with CSS Grid.
 
-1. **[Learn HTML by Building a Cat Photo App](./cat-photo-app/README.md)**  
-2. **[Learn Basic CSS by Building a Cafe Menu](./cafe-menu/README.md)**  
-3. **[Learn CSS Colors by Building a Set of Colored Markers](./colored-markers/README.md)**  
-4. **[Learn HTML Forms by Building a Registration Form](./registration-form/README.md)**  
-5. **[Learn the CSS Box Model by Building a Rothko Painting](./rothko-painting/README.md)**  
-6. **[Learn CSS Flexbox by Building a Photo Gallery](./photo-gallery/README.md)**
-7. **[Learn Typography by Building a Nutrition Label](./nutrition-label/README.md)**
+1. **[Learn HTML by Building a Cat Photo App](./cat-photo-app/)**  
+2. **[Learn Basic CSS by Building a Cafe Menu](./cafe-menu/)**  
+3. **[Learn CSS Colors by Building a Set of Colored Markers](./colored-markers/)**  
+4. **[Learn HTML Forms by Building a Registration Form](./registration-form/)**  
+5. **[Learn the CSS Box Model by Building a Rothko Painting](./rothko-painting/)**  
+6. **[Learn CSS Flexbox by Building a Photo Gallery](./photo-gallery/)**
+7. **[Learn Typography by Building a Nutrition Label](./nutrition-label/)**
