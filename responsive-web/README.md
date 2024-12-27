@@ -15,3 +15,5 @@ Finally, you'll learn how to make webpages that respond to different screen size
 7. **[Learn Typography by Building a Nutrition Label](./nutrition-label/)**
 8. **[Learn Accesibility by Building a Quiz](./quiz/)**
 9. **[Learn More About CSS Pseudo Selectors by Building A Balance Sheet](./balance-sheet/)**
+10. **[Learn Intermediate CSS by Building a Cat Painting](./cat-painting/)**
+11. **[Learn Responsive Web Design by Building a Piano](./piano/)**
