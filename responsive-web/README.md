@@ -17,3 +17,4 @@ Finally, you'll learn how to make webpages that respond to different screen size
 9. **[Learn More About CSS Pseudo Selectors by Building A Balance Sheet](./balance-sheet/)**
 10. **[Learn Intermediate CSS by Building a Cat Painting](./cat-painting/)**
 11. **[Learn Responsive Web Design by Building a Piano](./piano/)**
+12. **[Learning CSS Variables by Building a City Skyline](./city-skyline/)**
