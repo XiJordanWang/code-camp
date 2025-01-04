@@ -1,7 +1,6 @@
 # Free Code Camp
 
-# 📖 Table of Contents  
+## 📖 Table of Contents  
 
-1. **[Responsive Web Design](./responsive-web/README.md)**  
-   - What is this project about?  
-   - Why did we create it?  
+1. **[Responsive Web Design](./responsive-web/)**  
+2. **[JavaScript Algorithm and Data Sctructure](./js/)**
