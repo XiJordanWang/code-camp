@@ -8,4 +8,5 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 
 1. **[Learn Introductory JavaScript by Building a Pyramid Generator](./pyramid/)**
 2. **[Review JavaScript Fundamentals by Building a Gradebook App](./gradebook/)**  
-3. **[Learning JavaScript by building a Role Play Game](./role-play-game/)**    
+3. **[Learning JavaScript by building a Role Play Game](./role-play-game/)**
+4. **[Learning Form Validation by Building a Calorie Counter](./calorie-counter/)**
