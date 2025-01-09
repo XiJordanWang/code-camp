@@ -11,3 +11,5 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 3. **[Learning JavaScript by building a Role Play Game](./role-play-game/)**
 4. **[Learning Form Validation by Building a Calorie Counter](./calorie-counter/)**
 5. **[Learn Basic String and Array Methods by Building a Music Player](./music-player/)**
+6. **[Build a Palindrome Checker](./palindrome-checker/)**
+7. **[Learn the Date Object by Building a Date Formatter](./date-formatter/)**
