@@ -13,3 +13,5 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 5. **[Learn Basic String and Array Methods by Building a Music Player](./music-player/)**
 6. **[Build a Palindrome Checker](./palindrome-checker/)**
 7. **[Learn the Date Object by Building a Date Formatter](./date-formatter/)**
+8. **[Learn Modern JavaScript Methods by Building Football Team Cards](./football-team-cards/)**
+9. **[Learn LocalStorage by Building a Todo App](./todo-app/)**
