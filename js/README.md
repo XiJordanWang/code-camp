@@ -15,3 +15,4 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 7. **[Learn the Date Object by Building a Date Formatter](./date-formatter/)**
 8. **[Learn Modern JavaScript Methods by Building Football Team Cards](./football-team-cards/)**
 9. **[Learn LocalStorage by Building a Todo App](./todo-app/)**
+10. **[Learn Recursion by Building a Decimal to Binary Converter](./binary-converter/)**
