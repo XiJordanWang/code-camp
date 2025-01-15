@@ -17,3 +17,4 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 9. **[Learn LocalStorage by Building a Todo App](./todo-app/)**
 10. **[Learn Recursion by Building a Decimal to Binary Converter](./binary-converter/)**
 11. **[Learn Regular Expressions by Building a Spam Filter](./spam-filter/)**
+12. **[Learn Basic Algorithm Thinking by Building a Number Sorter](./number-sorter/)**
