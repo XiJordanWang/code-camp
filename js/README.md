@@ -19,3 +19,4 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 11. **[Learn Regular Expressions by Building a Spam Filter](./spam-filter/)**
 12. **[Learn Basic Algorithm Thinking by Building a Number Sorter](./number-sorter/)**
 13. **[Learn Advanced Array Method by Building a Statistics Calculator](./statistics-calculator)**
+14. **[Learning Functional Programming by Building a Spreadsheet](./spreadsheet)**
