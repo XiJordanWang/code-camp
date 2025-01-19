@@ -20,3 +20,4 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 12. **[Learn Basic Algorithm Thinking by Building a Number Sorter](./number-sorter/)**
 13. **[Learn Advanced Array Method by Building a Statistics Calculator](./statistics-calculator)**
 14. **[Learning Functional Programming by Building a Spreadsheet](./spreadsheet)**
+15. **[Learn Basic OOP by Building a Shopping Cart](./shopping-cart)**
