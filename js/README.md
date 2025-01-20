@@ -21,4 +21,4 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 13. **[Learn Advanced Array Method by Building a Statistics Calculator](./statistics-calculator)**
 14. **[Learning Functional Programming by Building a Spreadsheet](./spreadsheet)**
 15. **[Learn Basic OOP by Building a Shopping Cart](./shopping-cart)**
-16. **[Learn Intermediate OOP by Buidling a Platformer Game](./platformer-game/)** 
+16. **[Learn Intermediate OOP by Buidling a Platformer Game](./platformer-game/)**
