@@ -22,3 +22,4 @@ You'll also learn about Object Oriented Programming (OOP), Functional Programmin
 14. **[Learning Functional Programming by Building a Spreadsheet](./spreadsheet)**
 15. **[Learn Basic OOP by Building a Shopping Cart](./shopping-cart)**
 16. **[Learn Intermediate OOP by Buidling a Platformer Game](./platformer-game/)**
+17. **[Review Intermediate Algorithmic Thinking by Building a Dice Game](./dice-game/)**
